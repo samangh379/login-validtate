@@ -1,0 +1,29 @@
+[33mcommit 0905f5dd22cf56971af894a7b3a3f7f22433f4c7[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Saman Gholami <samangh379@gmail.com>
+Date:   Thu Sep 29 06:54:04 2022 -0700
+
+    design simple table with ag-grid package
+
+[33mcommit abb6147ced4c362b96dc5c9bd7491f2a27b5aad3[m
+Author: Saman Gholami <samangh379@gmail.com>
+Date:   Thu Sep 29 06:29:09 2022 -0700
+
+    show product details in table mode
+
+[33mcommit f20b782c9d84314202b1589599ab98e210d97fa0[m
+Author: Saman Gholami <samangh379@gmail.com>
+Date:   Thu Sep 29 06:12:06 2022 -0700
+
+    make Routes and spa pages
+
+[33mcommit e61f43acc08178d996b27ccad4287a0bb9c92caa[m
+Author: Saman Gholami <samangh379@gmail.com>
+Date:   Thu Sep 29 05:50:43 2022 -0700
+
+    design login page
+
+[33mcommit ad2a5091ca1675d22686487a6fc67334644fea49[m
+Author: Saman Gholami <samangh379@gmail.com>
+Date:   Thu Sep 29 05:06:36 2022 -0700
+
+    delete unnecessary files
