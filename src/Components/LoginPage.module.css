@@ -1,0 +1,84 @@
+.container {
+    text-align: center;
+    margin: auto;
+    width: fit-content;
+    padding: 50px 0;
+}
+
+.loginPage {
+    background-color: white;
+    border-radius: 12px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.rightContainer img {
+    padding: 75px;
+    border-left: 2px solid rgb(226, 222, 222);
+}
+
+.leftContainer {
+    margin: 90px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.registerInfo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    justify-content: space-evenly;
+    position: relative;
+}
+
+.registerInfo label {
+    display: inline-block;
+    width: 170px;
+    text-align: right;
+    margin: 5px 0;
+}
+
+.registerInfo input {
+    border: none;
+    padding: 8px 18px;
+    margin: 4px;
+    background-color: #f9f9f9;
+    border-radius: 5px;
+}
+
+.registerInfo input:focus {
+    outline: none !important;
+    border: 2px solid #5177cf;
+}
+
+.buttons {
+    display: flex;
+    margin: 45px 15px 0 0;
+    flex-direction: column;
+}
+
+.buttons button {
+    padding: 12px;
+    margin-bottom: 4px;
+    border: none;
+    font-size: 14px;
+    border-radius: 5px;
+    background-color: #5177cf;
+    color: white;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.buttons button:active {
+    transform: scale(1.1, 1.1);
+}
+
+.buttons span {
+    font-size: 12px;
+    margin-top: 5px;
+    color: #5177cf;
+}
