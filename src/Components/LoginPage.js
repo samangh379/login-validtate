@@ -46,7 +46,8 @@ const LoginPage = () => {
                                         setEmail(e.target.value);
                                     }}
                                 />
-                                <label htmlFor="password">نام کاربری</label>
+                                <label htmlFor="password">رمز ورود
+                                    </label>
                                 <input
                                     type="password"
                                     id="pass"
